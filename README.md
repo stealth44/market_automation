@@ -3,7 +3,7 @@
 
 # Market Automation: Intelligent Trading System
 
-An end-to-end automated trading framework leveraging Classical Machine Learning, Deep Learning (**LSTM**), and Reinforcement Learning (RL) to predict and execute trades across Stock, Forex, and Cryptocurrency markets.
+An end-to-end automated trading framework leveraging Classical Machine Learning, Deep Learning (**LSTM**), and Reinforcement Learning (RL) to predict and execute trades on Cryptocurrency markets.
 
 ## 📌 Project Overview
 The **Market Automation** project is designed to bridge the gap between raw financial data and actionable trading intelligence. By utilizing a multi-model approach, the system captures both long-term trends and short-term sequential dependencies in volatile market environments.
@@ -75,4 +75,3 @@ This project is licensed under the MIT License.
 
 ---
 
-**Since you are using an LSTM model, would you like me to help you write a code snippet for the model architecture using Keras or PyTorch?**
